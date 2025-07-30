@@ -1,2 +1,2 @@
 # OSSLab2025.
-Made for learning purposes
+This repository contains lab exercises for the Open Source Software Lab - 2025
